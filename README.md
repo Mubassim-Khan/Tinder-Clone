@@ -1,3 +1,52 @@
+# Tinder Clone
+
+This repository contains the code of a Tinder Clone made by using MERN Stack, Materials Icon & other open-source packages. The project creates the visual designs, cards, different buttons & other components which are required and are a part of Tinder App.
+
+## Features
+
+- Responsive design: The web page adapts to different screen sizes, ensuring a consistent user experience on desktop & mobile devices.
+- Interactive components: The page includes interactive elements such as buttons, cards, animations & other hover effects on buttons.
+- CSS styling: The stylesheets provide a sleek and modern look.
+- Backend Database: The backend of Tinder Clone is made with MongoDB Atlas in which the data is stored.
+
+## Tech used 🛠️
+
+- [React](https://reactjs.org/) - UI Library
+- [Prettier](https://prettier.io/) - Code Formatter
+- [Material Icons](https://mui.com/material-ui/material-icons/) - Materials UI
+- [MongoDB Atlas](https://www.mongodb.com/atlas) - Database program
+- [Node.Js](https://nodejs.org/en) - JavaScript runtime environment
+- [Express.Js](http://expressjs.com/) - JavaScript Framework 
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Mubassim-Khan/Tinder-Clone.git
+```
+
+2. Open the project in your preferred code editor.
+
+3. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## Contributing
+
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## Contact
+
+If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
+
+- LinkedIn : [Mubassim Ahmed Khan](https://www.linkedin.com/in/mubassim-ahmed-khan/)
+- Email: [mubassimkhan@gmail.com](mailto:mubassimkhan@gmail.com)
+
+---
+
+<!----->
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -28,43 +77,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
